@@ -1,0 +1,9 @@
+[ {
+  "tiles" : [ "WHITE", "BLACK", "ORANGE", "BLACK" ],
+  "direction" : "NORTH",
+  "platform" : false
+}, {
+  "tiles" : [ "GREEN", "GREEN", "GREEN", "RED" ],
+  "direction" : "EAST",
+  "platform" : false
+} ]
