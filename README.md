@@ -6,3 +6,5 @@ Implemented all the rules from the official game rule book : http://foxtrotgames
 Implemented a greedy AI using the greedy algorithm, based on a mathematical model, the AI should always choose the move that can maximize its scores. During the test, the AI can easily beat an average Human Player.
 
 The default players are two: you and the AI. "k" means black in the game.
+![alt tab](http://i.imgur.com/ugD1V6w.png)
+![alt tab](http://i.imgur.com/A8i000V.png)
